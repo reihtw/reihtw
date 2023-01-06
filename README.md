@@ -3,7 +3,7 @@
 - 🔭 I'm currently working as a full stack software developer
 - 🌱 I'm currently learning cyber security/pentest, kotlin and dart/flutter
 - 🆓 I do some freelancing
-- 📬 How to reach me: @reihtw on [Instagram](https://instagram.com/reihtw) or [Twitter](https://twitter.com/reihtw). Or email me: r3ihtw@pm.me1
+- 📬 How to reach me:[Instagram](https://instagram.com/reihtw), [Twitter](https://twitter.com/reihtw) or email me: r3ihtw@pm.me
 - ⚡ Fun fact: I love cats 🐈
 
 <div align="center">
