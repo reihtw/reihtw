@@ -1,8 +1,9 @@
-### Hello 👋
+### Hello. I'm Reihtw! 👋
 
-- 🔭 I'm currently working as a full stack software developer
-- 🌱 I'm cyber security/pentest enthusiast
-- 📬 How to reach me: [Instagram](https://instagram.com/reihtw), [Twitter](https://twitter.com/reihtw) or email me: reihtw@duck.com
+- 🔭 Full Stack Developer
+- 👾 Cyber security enthusiast
+-  📍 São Paulo, Brazil
+- 📬 How to reach me: [Instagram](https://instagram.com/reihtw) or email me: reihtw@duck.com
 
 </div>
 <div style="display: inline_block"><br>
