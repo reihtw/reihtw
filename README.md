@@ -1,4 +1,4 @@
-### Hello. I'm Reihtw! 👋
+### Hello. I'm Rodrigo! 👋
 
 - 🔭 Full Stack Developer
 - 👾 Cyber security enthusiast
