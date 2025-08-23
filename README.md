@@ -19,9 +19,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h2>VisitorCount</h2>
-<div align="left">
 
-![VisitorCount](https://profile-counter.glitch.me/{reihtw}/count.svg)
-
-</div>
